@@ -1,2 +1,2 @@
-# Cadastrodealunos
-Apenas um teste para a criação de uma apostila sobre Git / GitHub
+# Gatos
+Uma atividade para o faculdade
